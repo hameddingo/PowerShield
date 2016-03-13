@@ -235,16 +235,16 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {138012635},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [[W_Shield_W V 1
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+     @KinG_SuPeR_AdMiN_SHIELD[DeVeLoPeR] 
     
     #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    [W_Shield_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
     
 ]],
     help_text_realm = [[
